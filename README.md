@@ -20,3 +20,14 @@ Dê permissão de execução ao arquivo
 
 Execute o script
 ''./python_script.sh''
+
+------------------------------------------------------------------
+
+Calc é uma calculadora simples desenvolvida em Python, que permite executar operações matemáticas básicas como adição, subtração, multiplicação e divisão, diretamente no terminal.
+
+Após garantir que o Python está instalado no seu sistema, siga os passos abaixo:
+
+Dê permissão de execução ao arquivo:
+''chmod +x calc.py''
+
+Em seguinte execute o arquivo - ./calc.py
